@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Phone,City,State,Country,JoinDate,Status
+1001,John,Smith,john.smith@email.com,(555) 123-4567,New York,NY,USA,2022-01-15,Active
+1002,Jane,Doe,jane.doe@email.com,(555) 234-5678,Los Angeles,CA,USA,2022-02-20,Active
+1003,Robert,Johnson,robert.j@email.com,(555) 345-6789,Chicago,IL,USA,2022-03-10,Inactive
+1004,Emily,Williams,emily.w@email.com,(555) 456-7890,Houston,TX,USA,2022-04-05,Active
+1005,Michael,Brown,michael.b@email.com,(555) 567-8901,Phoenix,AZ,USA,2022-05-12,Active
+1006,Sarah,Davis,sarah.d@email.com,(555) 678-9012,Philadelphia,PA,USA,2022-06-18,Inactive
+1007,David,Miller,david.m@email.com,(555) 789-0123,San Antonio,TX,USA,2022-07-22,Active
+1008,Lisa,Wilson,lisa.w@email.com,(555) 890-1234,San Diego,CA,USA,2022-08-30,Active
+1009,James,Moore,james.m@email.com,(555) 901-2345,Dallas,TX,USA,2022-09-14,Active
+1010,Jennifer,Taylor,jennifer.t@email.com,(555) 012-3456,San Jose,CA,USA,2022-10-25,Inactive

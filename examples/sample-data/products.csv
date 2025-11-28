@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice,Cost,Supplier,InStock
+P001,Widget Pro,Electronics,Accessories,29.99,12.50,TechCorp,Yes
+P002,Office Supplies Pack,Office,Supplies,9.99,4.25,OfficeMax,Yes
+P003,Smart Display,Electronics,Displays,149.99,75.00,TechCorp,Yes
+P004,Ergonomic Mouse,Electronics,Accessories,49.99,22.00,TechCorp,Yes
+P005,Premium Laptop Stand,Electronics,Accessories,299.99,150.00,DesignWorks,No
+P006,Paper Ream 500ct,Office,Paper,6.99,2.50,PaperCo,Yes
+P007,Wireless Keyboard,Electronics,Accessories,79.99,35.00,TechCorp,Yes
+P008,Desk Organizer,Office,Storage,24.99,10.00,DesignWorks,Yes
+P009,USB Hub 7-Port,Electronics,Accessories,34.99,15.00,TechCorp,Yes
+P010,Monitor Stand,Electronics,Accessories,89.99,40.00,DesignWorks,Yes

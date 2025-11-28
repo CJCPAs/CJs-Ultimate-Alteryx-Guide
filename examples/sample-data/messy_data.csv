@@ -1,0 +1,11 @@
+ID,Name,Email,Phone,Date,Amount,Category,Notes
+1,"  John Smith  ",JOHN.SMITH@EMAIL.COM,(555)1234567,01/15/2024,100.50,electronics,Good customer
+2,jane doe,jane.doe@email.com,555-234-5678,2024-01-16,75.25,Electronics,
+3,ROBERT JOHNSON,robert.j@email.com,5553456789,Jan 17 2024,,ELECTRONICS,N/A
+4,Emily Williams,emily.w@email,555.456.7890,01-18-2024,200.00,Electr.,Preferred
+5,  michael brown,michael.b@email.com,(555) 567-8901,2024/01/19,150.75,electronics,
+6,Sarah Davis,sarah.d@email.com,N/A,20-Jan-2024,50.00,Office,Unknown
+7,David Miller,,555 789 0123,01/21/24,NULL,office supplies,
+8,lisa wilson,lisa.w@email.com,(555)890-1234,January 22 2024,300.25,OFFICE,VIP
+9,James Moore,james.m@email.com,555-901-2345,,175.50,Office Supplies,
+10,jennifer taylor,JENNIFER.T@EMAIL.COM,+1 555 012 3456,01/24/2024,225.00,office,  First order
