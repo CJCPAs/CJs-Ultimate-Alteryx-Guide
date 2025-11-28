@@ -8,6 +8,30 @@
 
 ---
 
+## Important Disclaimer
+
+> **This guide was created with the assistance of artificial intelligence (AI) using publicly available information about Alteryx.**
+>
+> **Please read carefully before using this resource:**
+>
+> - **No Warranty:** This content is provided "as-is" without any warranties of any kind, either express or implied, including but not limited to accuracy, completeness, reliability, or fitness for a particular purpose.
+>
+> - **Verify All Information:** While every effort has been made to provide accurate and helpful information, AI-generated content may contain errors, outdated information, or inaccuracies. **You are solely responsible for independently verifying all information** before applying it to your work or making any decisions based on it.
+>
+> - **Not Official Documentation:** This is an independent, community resource and is **not affiliated with, endorsed by, or officially associated with Alteryx, Inc.** For official documentation, please visit [help.alteryx.com](https://help.alteryx.com/).
+>
+> - **Your Responsibility:** By using this guide, you acknowledge and agree that **you assume full responsibility** for:
+>   - Validating the accuracy of any information, code, formulas, or techniques described herein
+>   - Any outcomes, consequences, or damages that may result from applying this content
+>   - Ensuring compliance with your organization's policies and applicable laws
+>   - Testing all workflows and configurations in a safe environment before production use
+>
+> - **Professional Judgment:** This guide is intended for educational purposes. Always exercise your own professional judgment and consult official Alteryx documentation, certified professionals, or your organization's technical resources when working on critical systems or production environments.
+>
+> **Use of this resource constitutes acceptance of these terms.**
+
+---
+
 ## Welcome
 
 Whether you're just starting with Alteryx or looking to master advanced techniques, this guide has you covered. From basic workflow concepts to complex macros, API integrations, and performance optimization - everything you need is right here.
