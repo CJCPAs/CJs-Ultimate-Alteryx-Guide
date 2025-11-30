@@ -2,7 +2,6 @@
 
 > The most comprehensive, community-driven Alteryx resource on GitHub
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Alteryx Version](https://img.shields.io/badge/Alteryx-2023.1+-orange.svg)](https://www.alteryx.com/)
 
