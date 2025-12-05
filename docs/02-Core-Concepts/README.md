@@ -4,7 +4,7 @@
 
 ---
 
-Master the foundational knowledge that underpins everything in Alteryx.
+Foundational knowledge for working effectively with Alteryx.
 
 ## In This Section
 

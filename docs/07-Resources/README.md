@@ -12,7 +12,7 @@ Additional reference materials and learning resources.
 |----------|-------------|
 | [Glossary](01-Glossary.md) | Alteryx terminology defined |
 | [Keyboard Shortcuts](02-Shortcuts.md) | Speed up your workflow building |
-| [Formula Reference](03-Formula-Reference.md) | Complete function reference |
+| [Formula Reference](03-Formula-Reference.md) | Common function reference |
 | [External Resources](04-External-Resources.md) | Community, training, and more |
 | [Certification Guide](05-Certification.md) | Prepare for Alteryx certifications |
 

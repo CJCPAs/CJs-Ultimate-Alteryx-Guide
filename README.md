@@ -1,6 +1,6 @@
-# CJ's Ultimate Alteryx Guide
+# CJ's Alteryx Guide
 
-> The most comprehensive, community-driven Alteryx resource on GitHub
+> A comprehensive, community-driven Alteryx learning resource
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -8,48 +8,46 @@
 
 ---
 
-## Important Disclaimer
+> **IMPORTANT: Please Read Before Using This Resource**
+>
+> This guide is for **informational and educational purposes only** and does not constitute professional data engineering, software, or technical advice. The information may contain errors, be incomplete, or become outdated as Alteryx releases new versions. **Always verify information against [official Alteryx documentation](https://help.alteryx.com/)** and test thoroughly before using in production environments. See the [full disclaimer](#-important-disclaimer) below.
 
-> **This guide was created with the assistance of artificial intelligence (AI) using publicly available information about Alteryx.**
->
-> **Please read carefully before using this resource:**
->
-> - **No Warranty:** This content is provided "as-is" without any warranties of any kind, either express or implied, including but not limited to accuracy, completeness, reliability, or fitness for a particular purpose.
->
-> - **Verify All Information:** While every effort has been made to provide accurate and helpful information, AI-generated content may contain errors, outdated information, or inaccuracies. **You are solely responsible for independently verifying all information** before applying it to your work or making any decisions based on it.
->
-> - **Not Official Documentation:** This is an independent, community resource and is **not affiliated with, endorsed by, or officially associated with Alteryx, Inc.** For official documentation, please visit [help.alteryx.com](https://help.alteryx.com/).
->
-> - **Your Responsibility:** By using this guide, you acknowledge and agree that **you assume full responsibility** for:
->   - Validating the accuracy of any information, code, formulas, or techniques described herein
->   - Any outcomes, consequences, or damages that may result from applying this content
->   - Ensuring compliance with your organization's policies and applicable laws
->   - Testing all workflows and configurations in a safe environment before production use
->
-> - **Professional Judgment:** This guide is intended for educational purposes. Always exercise your own professional judgment and consult official Alteryx documentation, certified professionals, or your organization's technical resources when working on critical systems or production environments.
->
-> **Use of this resource constitutes acceptance of these terms.**
+---
+
+## Open Source & Community-Driven
+
+**A community-driven resource for learning Alteryx** — covering workflow design, data preparation, tool usage, and best practices.
+
+We believe quality Alteryx learning materials should be accessible to everyone. This is an **open source project** and we welcome contributions, corrections, and improvements from the community. No single resource can cover everything, and Alteryx evolves with each release—we improve together.
+
+**This guide was created with the assistance of AI** using publicly available information. While we strive for accuracy, you should always verify critical information with authoritative sources.
+
+**Found an error or have expertise to share?** [Open an issue](../../issues) or submit a pull request.
 
 ---
 
 ## Welcome
 
-Whether you're just starting with Alteryx or looking to master advanced techniques, this guide has you covered. From basic workflow concepts to complex macros, API integrations, and performance optimization - everything you need is right here.
+Whether you're just starting with Alteryx or looking to expand your skills, this guide covers key topics to help you learn. From basic workflow concepts to macros, API integrations, and performance optimization—we aim to provide practical, useful guidance.
 
-**What makes this guide different?**
-- Practical, real-world examples
-- Clear explanations without jargon
-- Progressive learning path from beginner to expert
-- Downloadable sample workflows and datasets
-- Troubleshooting guides for common issues
-- Regular updates with new Alteryx features
+**What this guide offers:**
+- Practical examples and explanations
+- Progressive learning path from beginner to intermediate topics
+- Sample workflows and datasets for practice
+- Troubleshooting guidance for common issues
+- Community-maintained content that improves over time
+
+**What this guide is NOT:**
+- Official Alteryx documentation (see [help.alteryx.com](https://help.alteryx.com/))
+- A guarantee of completeness or accuracy
+- A substitute for professional training or certification
 
 ---
 
 ## Table of Contents
 
 ### [1. Getting Started](docs/01-Getting-Started/)
-Perfect for beginners - learn the fundamentals and build your first workflow.
+Designed for beginners—learn the fundamentals and build your first workflow.
 - [Introduction to Alteryx](docs/01-Getting-Started/01-Introduction.md)
 - [Installation & Setup](docs/01-Getting-Started/02-Installation.md)
 - [The Alteryx Interface](docs/01-Getting-Started/03-Interface-Overview.md)
@@ -57,7 +55,7 @@ Perfect for beginners - learn the fundamentals and build your first workflow.
 - [Understanding Data Types](docs/01-Getting-Started/05-Data-Types.md)
 
 ### [2. Core Concepts](docs/02-Core-Concepts/)
-Master the foundational knowledge every Alteryx user needs.
+Foundational knowledge for Alteryx users.
 - [Workflow Design Principles](docs/02-Core-Concepts/01-Workflow-Design.md)
 - [Data Connections](docs/02-Core-Concepts/02-Data-Connections.md)
 - [Expressions & Formulas](docs/02-Core-Concepts/03-Expressions-Formulas.md)
@@ -65,7 +63,7 @@ Master the foundational knowledge every Alteryx user needs.
 - [Error Handling Basics](docs/02-Core-Concepts/05-Error-Handling.md)
 
 ### [3. Tools Reference](docs/03-Tools-Reference/)
-Comprehensive documentation for every Alteryx tool category.
+Documentation for key Alteryx tool categories.
 
 | Category | Description |
 |----------|-------------|
@@ -78,8 +76,10 @@ Comprehensive documentation for every Alteryx tool category.
 | [Developer](docs/03-Tools-Reference/Developer/) | Run code and create custom solutions |
 | [Spatial](docs/03-Tools-Reference/Spatial/) | Geographic and location analysis |
 
+*Note: This reference covers commonly used tools. For complete tool documentation, see [official Alteryx help](https://help.alteryx.com/).*
+
 ### [4. Advanced Topics](docs/04-Advanced-Topics/)
-Take your skills to the next level with advanced techniques.
+Intermediate to advanced techniques.
 - [Building Macros](docs/04-Advanced-Topics/01-Macros.md)
 - [API Integration](docs/04-Advanced-Topics/02-API-Integration.md)
 - [Performance Optimization](docs/04-Advanced-Topics/03-Performance.md)
@@ -88,15 +88,15 @@ Take your skills to the next level with advanced techniques.
 - [Version Control for Workflows](docs/04-Advanced-Topics/06-Version-Control.md)
 
 ### [5. Use Cases & Tutorials](docs/05-Use-Cases/)
-Learn by doing with practical, real-world examples.
-- [Data Cleaning Masterclass](docs/05-Use-Cases/01-Data-Cleaning.md)
+Practical examples and guided tutorials.
+- [Data Cleaning Techniques](docs/05-Use-Cases/01-Data-Cleaning.md)
 - [ETL Pipeline Design](docs/05-Use-Cases/02-ETL-Pipelines.md)
 - [Report Automation](docs/05-Use-Cases/03-Report-Automation.md)
 - [API Data Extraction](docs/05-Use-Cases/04-API-Data-Extraction.md)
 - [Database Operations](docs/05-Use-Cases/05-Database-Operations.md)
 
 ### [6. Troubleshooting](docs/06-Troubleshooting/)
-Solutions to common problems and debugging techniques.
+Common problems and debugging approaches.
 - [Common Errors & Solutions](docs/06-Troubleshooting/01-Common-Errors.md)
 - [Performance Issues](docs/06-Troubleshooting/02-Performance-Issues.md)
 - [Connection Problems](docs/06-Troubleshooting/03-Connection-Problems.md)
@@ -120,9 +120,9 @@ Additional learning materials and references.
 3. Build [Your First Workflow](docs/01-Getting-Started/04-First-Workflow.md)
 
 **Already know the basics?** Jump to:
-- [Tools Reference](docs/03-Tools-Reference/) - Find the right tool for your task
+- [Tools Reference](docs/03-Tools-Reference/) - Find guidance on specific tools
 - [Use Cases](docs/05-Use-Cases/) - Practical tutorials
-- [Advanced Topics](docs/04-Advanced-Topics/) - Level up your skills
+- [Advanced Topics](docs/04-Advanced-Topics/) - Expand your skills
 
 ---
 
@@ -132,14 +132,12 @@ This repository includes practice materials:
 
 | Folder | Contents |
 |--------|----------|
-| [`examples/workflows/`](examples/workflows/) | Downloadable .yxmd workflow files |
-| [`examples/sample-data/`](examples/sample-data/) | CSV and Excel files for practice |
+| [`examples/workflows/`](examples/workflows/) | Sample .yxmd workflow files |
+| [`examples/sample-data/`](examples/sample-data/) | CSV files for practice |
 
 ---
 
-## Alteryx Tool Quick Reference
-
-### Most Used Tools
+## Commonly Used Tools
 
 | Tool | Purpose | Guide |
 |------|---------|-------|
@@ -151,7 +149,7 @@ This repository includes practice materials:
 | **Summarize** | Aggregate and group data | [Link](docs/03-Tools-Reference/Transform/01-Summarize.md) |
 | **Output Data** | Write results to files | [Link](docs/03-Tools-Reference/Input-Output/02-Output-Data.md) |
 
-### Tool Categories at a Glance
+### Tool Categories Overview
 
 ```
 Favorites      - Your most-used tools
@@ -171,20 +169,35 @@ Developer      - Custom code integration
 
 ## Contributing
 
-We welcome contributions! Whether it's:
-- Fixing typos or errors
-- Adding new tutorials
-- Sharing workflow examples
-- Improving existing documentation
+This is a **living, open source document** maintained by the community. We welcome contributions from Alteryx users at all levels.
 
-See our [Contributing Guide](CONTRIBUTING.md) for details.
+### How to Contribute
+
+- **Found an error?** [Open an issue](../../issues) describing the problem
+- **Have a correction?** Submit a pull request with your fix
+- **Want to add content?** Fork the repo and submit a PR
+- **Have expertise to share?** We'd love your input
+
+### Contribution Guidelines
+
+1. **Cite sources** when possible—link to official Alteryx documentation
+2. **Be accurate**—verify information before contributing
+3. **Acknowledge limitations**—note when behavior may vary by version or configuration
+4. **Avoid overclaiming**—no single resource covers everything
+
+See our [Contributing Guide](CONTRIBUTING.md) for detailed guidelines.
+
+**Together, we can make quality Alteryx learning resources accessible to everyone.**
 
 ---
 
-## Community
+## Official Resources
 
+For authoritative information, always refer to official Alteryx resources:
+
+- [Alteryx Help Documentation](https://help.alteryx.com/) - Official documentation
 - [Alteryx Community](https://community.alteryx.com/) - Official forums
-- [Alteryx Academy](https://community.alteryx.com/t5/Alteryx-Academy/ct-p/alteryx-academy) - Free training
+- [Alteryx Academy](https://community.alteryx.com/t5/Alteryx-Academy/ct-p/alteryx-academy) - Free official training
 - [Weekly Challenges](https://community.alteryx.com/t5/Weekly-Challenge/bd-p/weeklychallenge) - Practice problems
 
 ---
@@ -197,12 +210,51 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The Alteryx Community for continuous inspiration
-- All contributors who help make this resource better
-- Alteryx for creating an amazing data analytics platform
+- The Alteryx Community for inspiration and shared knowledge
+- All contributors who help improve this resource
+- Alteryx, Inc. for creating the Alteryx platform
+
+*Note: This project is not affiliated with, endorsed by, or officially associated with Alteryx, Inc.*
 
 ---
 
-**Found this helpful?** Give it a star and share with others learning Alteryx!
+## Important Disclaimer
 
-*Last updated: November 2024*
+**THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
+
+### AI-Generated Content
+
+This guide was created with the assistance of artificial intelligence (AI) using publicly available information about Alteryx. While efforts have been made to provide accurate and helpful information, AI-generated content may contain errors, outdated information, or inaccuracies.
+
+### Please Note:
+
+**Not Professional Advice:** This guide is not a substitute for professional data engineering, software development, or technical consulting services. Every situation is unique, and the techniques described here may not be appropriate for your specific needs.
+
+**Not Official Documentation:** This is an independent, community resource and is **not affiliated with, endorsed by, or officially associated with Alteryx, Inc.** For official documentation, feature specifications, and supported configurations, please visit [help.alteryx.com](https://help.alteryx.com/).
+
+**Verify with Authoritative Sources:** Before implementing any practices described in this guide, you should:
+- Consult official Alteryx documentation
+- Test thoroughly in non-production environments
+- Verify compatibility with your specific Alteryx version
+- Consult with qualified professionals for critical systems
+
+**Accuracy Not Guaranteed:** While efforts have been made to ensure accuracy, Alteryx software is updated regularly and features may change. The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even official Alteryx documentation cannot cover every edge case—neither can this guide.
+
+**Version Differences:** Alteryx behavior may vary between versions. This guide primarily references recent versions but may not reflect changes in the latest releases or differences in older versions.
+
+**Open Source Disclaimer:** This is a community-driven, open source project. Content is provided by various contributors and may contain errors. Always verify critical information with authoritative sources before applying to production systems.
+
+**Your Responsibility:** By using this guide, you acknowledge and agree that you assume full responsibility for:
+- Validating the accuracy of any information, code, formulas, or techniques described herein
+- Any outcomes, consequences, or damages that may result from applying this content
+- Ensuring compliance with your organization's policies and applicable regulations
+- Testing all workflows and configurations in a safe environment before production use
+- Exercising your own professional judgment
+
+**No Warranty:** This content is provided "as-is" without any warranties of any kind, either express or implied, including but not limited to accuracy, completeness, reliability, or fitness for a particular purpose.
+
+**Use of this resource constitutes acceptance of these terms.**
+
+---
+
+*Last updated: December 2024*

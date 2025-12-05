@@ -4,7 +4,9 @@
 
 ---
 
-Complete reference for Alteryx formula functions.
+Reference guide for commonly used Alteryx formula functions.
+
+*For the complete official function reference, see [Alteryx Help](https://help.alteryx.com/).*
 
 ---
 

@@ -4,7 +4,9 @@
 
 ---
 
-Complete documentation for Alteryx tools, organized by category.
+Reference documentation for commonly used Alteryx tools, organized by category.
+
+*For complete and official tool documentation, see [Alteryx Help](https://help.alteryx.com/).*
 
 ## Tool Categories
 
